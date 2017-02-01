@@ -15,7 +15,7 @@ variable "aws_access_key" {
 
 variable "aws_secret_key" {
    default = "WvUVz/V6vYqkuxfEkzGXJd8ecQE/ZGWdV95o5X8L"
-
+}
 variable "subnet_id" {
     default = "subnet-1a3e4f6c"
    # description = "Subnet ID to use in VPC"
